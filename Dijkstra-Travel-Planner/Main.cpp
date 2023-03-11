@@ -62,7 +62,7 @@ int main(int argc, char* argv[]){
 	}
 
 	else{
-		cout << "Destination : ";
+		cout << "Destination: ";
 		cin >> destination;
 	}
 
